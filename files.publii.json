@@ -1,0 +1,517 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "abb1020ed2f264a5f42758efcf9e6461"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0cdb59ef5ff45200c1fa7f118fea017e"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "db8649ed47c6ff1626cbe40d1e0db2db"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/penn-badgley",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/penn-badgley/index.html",
+        "type": "file",
+        "md5": "ecd95582cda23f14fa70e0aee53ef6d9"
+    },
+    {
+        "path": "dior-sauvage-baccarat-the-best-mens-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dior-sauvage-baccarat-the-best-mens-fragrance/index.html",
+        "type": "file",
+        "md5": "855452c6a627f76a4f9f42d69d9db570"
+    },
+    {
+        "path": "discovering-trump-cologne-the-ultimate-fragrance-for-men",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discovering-trump-cologne-the-ultimate-fragrance-for-men/index.html",
+        "type": "file",
+        "md5": "07d6ed86b0c6f8a73829d4d867d90707"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "f43e7c703569a216070575065b210d1f"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "d1d2cd2fc6285b0ac2954db6dd70c174"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "7dd56ae8e12278acf3467141e4a00c34"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden.jpg",
+        "type": "file",
+        "md5": "7e27077729da461c94b7f08fa1fdf188"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-2xl.jpg",
+        "type": "file",
+        "md5": "1255f8b5c67ffd0c5b2a68da7d47c085"
+    },
+    {
+        "path": "/media/posts/1/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-lg.jpg",
+        "type": "file",
+        "md5": "1255f8b5c67ffd0c5b2a68da7d47c085"
+    },
+    {
+        "path": "/media/posts/1/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-md.jpg",
+        "type": "file",
+        "md5": "1255f8b5c67ffd0c5b2a68da7d47c085"
+    },
+    {
+        "path": "/media/posts/1/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-sm.jpg",
+        "type": "file",
+        "md5": "1255f8b5c67ffd0c5b2a68da7d47c085"
+    },
+    {
+        "path": "/media/posts/1/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-xl.jpg",
+        "type": "file",
+        "md5": "1255f8b5c67ffd0c5b2a68da7d47c085"
+    },
+    {
+        "path": "/media/posts/1/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-xs.jpg",
+        "type": "file",
+        "md5": "1255f8b5c67ffd0c5b2a68da7d47c085"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/Best-Creed-Perfume.webp",
+        "type": "file",
+        "md5": "a59ffb18b8a76c3ed1b2522ac90f3666"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Creed-Perfume-2xl.webp",
+        "type": "file",
+        "md5": "3f51f4fb9ea5ef61c23bdbad31c4b411"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Creed-Perfume-lg.webp",
+        "type": "file",
+        "md5": "e0329413231cf506c3c4adbd13271a8c"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Creed-Perfume-md.webp",
+        "type": "file",
+        "md5": "d5b4776a23cdab5f7bb5b8d46d0e8042"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Creed-Perfume-sm.webp",
+        "type": "file",
+        "md5": "a37dc8e72793fec9687f51ca10103df9"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Creed-Perfume-xl.webp",
+        "type": "file",
+        "md5": "9cbd52db9f65c210a7e23e7477d739cf"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Creed-Perfume-xs.webp",
+        "type": "file",
+        "md5": "5dec5452e683d2dd9b89675f256c0644"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/Trump-cologne-2xl.png",
+        "type": "file",
+        "md5": "718ca51615b16892d9a4cc55164acf6a"
+    },
+    {
+        "path": "/media/posts/3/responsive/Trump-cologne-lg.png",
+        "type": "file",
+        "md5": "718ca51615b16892d9a4cc55164acf6a"
+    },
+    {
+        "path": "/media/posts/3/responsive/Trump-cologne-md.png",
+        "type": "file",
+        "md5": "718ca51615b16892d9a4cc55164acf6a"
+    },
+    {
+        "path": "/media/posts/3/responsive/Trump-cologne-sm.png",
+        "type": "file",
+        "md5": "718ca51615b16892d9a4cc55164acf6a"
+    },
+    {
+        "path": "/media/posts/3/responsive/Trump-cologne-xl.png",
+        "type": "file",
+        "md5": "718ca51615b16892d9a4cc55164acf6a"
+    },
+    {
+        "path": "/media/posts/3/responsive/Trump-cologne-xs.png",
+        "type": "file",
+        "md5": "718ca51615b16892d9a4cc55164acf6a"
+    },
+    {
+        "path": "/media/posts/3/Trump-cologne.png",
+        "type": "file",
+        "md5": "c146b5d8553258967beeb747628d76de"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/Top-Mens-Cologne-2024-2xl.jpg",
+        "type": "file",
+        "md5": "4000acf9502a89c0a947d79a23fdf167"
+    },
+    {
+        "path": "/media/posts/4/responsive/Top-Mens-Cologne-2024-lg.jpg",
+        "type": "file",
+        "md5": "4000acf9502a89c0a947d79a23fdf167"
+    },
+    {
+        "path": "/media/posts/4/responsive/Top-Mens-Cologne-2024-md.jpg",
+        "type": "file",
+        "md5": "4000acf9502a89c0a947d79a23fdf167"
+    },
+    {
+        "path": "/media/posts/4/responsive/Top-Mens-Cologne-2024-sm.jpg",
+        "type": "file",
+        "md5": "81dd022967b35f1c8b00d44265495ab0"
+    },
+    {
+        "path": "/media/posts/4/responsive/Top-Mens-Cologne-2024-xl.jpg",
+        "type": "file",
+        "md5": "4000acf9502a89c0a947d79a23fdf167"
+    },
+    {
+        "path": "/media/posts/4/responsive/Top-Mens-Cologne-2024-xs.jpg",
+        "type": "file",
+        "md5": "952b2eed7a87381867b22cb65b9284cc"
+    },
+    {
+        "path": "/media/posts/4/Top-Mens-Cologne-2024.jpg",
+        "type": "file",
+        "md5": "25e61b06c81b85e2a26acfd1e93ec7b5"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/Dior-Sauvage-Baccarat.webp",
+        "type": "file",
+        "md5": "740cb1b03158be2a39785bacd0c6d3fb"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/Dior-Sauvage-Baccarat-2xl.webp",
+        "type": "file",
+        "md5": "83010bbcd62e8dea580c1b9169813301"
+    },
+    {
+        "path": "/media/posts/5/responsive/Dior-Sauvage-Baccarat-lg.webp",
+        "type": "file",
+        "md5": "83010bbcd62e8dea580c1b9169813301"
+    },
+    {
+        "path": "/media/posts/5/responsive/Dior-Sauvage-Baccarat-md.webp",
+        "type": "file",
+        "md5": "83010bbcd62e8dea580c1b9169813301"
+    },
+    {
+        "path": "/media/posts/5/responsive/Dior-Sauvage-Baccarat-sm.webp",
+        "type": "file",
+        "md5": "83010bbcd62e8dea580c1b9169813301"
+    },
+    {
+        "path": "/media/posts/5/responsive/Dior-Sauvage-Baccarat-xl.webp",
+        "type": "file",
+        "md5": "83010bbcd62e8dea580c1b9169813301"
+    },
+    {
+        "path": "/media/posts/5/responsive/Dior-Sauvage-Baccarat-xs.webp",
+        "type": "file",
+        "md5": "c9b36ee57f0a55bd3a36ff4056199d4f"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Luxezine_Spicy-Fragrances.webp",
+        "type": "file",
+        "md5": "082e9d15c96cbb4f45b15a0feb71847c"
+    },
+    {
+        "path": "/media/website/perfume-logo.png",
+        "type": "file",
+        "md5": "d483fcd1f8ad4c52ea9e4adc747d8267"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Luxezine_Spicy-Fragrances-2xl.webp",
+        "type": "file",
+        "md5": "1d9886f20524b4aca378bb915163fd8c"
+    },
+    {
+        "path": "/media/website/responsive/Luxezine_Spicy-Fragrances-lg.webp",
+        "type": "file",
+        "md5": "1d9886f20524b4aca378bb915163fd8c"
+    },
+    {
+        "path": "/media/website/responsive/Luxezine_Spicy-Fragrances-md.webp",
+        "type": "file",
+        "md5": "e8b6702ad4239f135b4ef748dcfe7618"
+    },
+    {
+        "path": "/media/website/responsive/Luxezine_Spicy-Fragrances-sm.webp",
+        "type": "file",
+        "md5": "aab8ca6271ce98e9001183105a1febcb"
+    },
+    {
+        "path": "/media/website/responsive/Luxezine_Spicy-Fragrances-xl.webp",
+        "type": "file",
+        "md5": "1d9886f20524b4aca378bb915163fd8c"
+    },
+    {
+        "path": "/media/website/responsive/Luxezine_Spicy-Fragrances-xs.webp",
+        "type": "file",
+        "md5": "c95cbac5a968451dcbd71236926f1d64"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-2xl.png",
+        "type": "file",
+        "md5": "eea2d86bd719b76f9d361ad4701fa78e"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-lg.png",
+        "type": "file",
+        "md5": "eea2d86bd719b76f9d361ad4701fa78e"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-md.png",
+        "type": "file",
+        "md5": "f8bbe7bce38784dd6cc35ad1e5d8a609"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-sm.png",
+        "type": "file",
+        "md5": "e6fd75c9bd7dc10c63cfaa1b2dbac5cd"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-xl.png",
+        "type": "file",
+        "md5": "eea2d86bd719b76f9d361ad4701fa78e"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-xs.png",
+        "type": "file",
+        "md5": "e4ea668136d7fe1e187c30006b3fc306"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "3383566aae7b5687454efc46b8d55123"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "86aa0280b99ac65226fa194b3750623d"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "a06a9b6eb271b6b3ff2ae30f8c5f17cd"
+    },
+    {
+        "path": "the-best-creed-cologne-for-men-an-in-depth-exploration",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-best-creed-cologne-for-men-an-in-depth-exploration/index.html",
+        "type": "file",
+        "md5": "1122302d4482e107f662a773fb4aa339"
+    },
+    {
+        "path": "top-mens-cologne-2024-the-definitive-guide-to-masculine-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-mens-cologne-2024-the-definitive-guide-to-masculine-fragrance/index.html",
+        "type": "file",
+        "md5": "1033f070b240ce453fc1db9907dd454b"
+    },
+    {
+        "path": "unveiling-jpg-paradise-garden-a-fragrance-that-transports-you-to-bliss",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/unveiling-jpg-paradise-garden-a-fragrance-that-transports-you-to-bliss/index.html",
+        "type": "file",
+        "md5": "20cf7a3a995480429992ccf8544cb8f6"
+    }
+]
